@@ -25,3 +25,4 @@ print("Starting packet sniffing...")
 sniff(prn=packet_callback, store=False, count=10)
 
 #output
+![Image](https://github.com/user-attachments/assets/2ae0d342-c3bd-42f7-b14a-7925cc744096)
